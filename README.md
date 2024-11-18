@@ -1,42 +1,39 @@
-👋 # Olá! Somos da AddiTIon Brasil
----
-Bem-vindo ao nosso projeto dedicado a ajudá-lo a largar maus hábitos e vícios! Somos uma equipe de estudantes comprometidos com a melhoria da qualidade de vida por meio da tecnologia. 🌱
+👋 # Olá! Somos da SmartFlow  
+---  
+Bem-vindo ao nosso projeto de semáforo inteligente desenvolvido com a tecnologia YOLOv5! Somos uma equipe dedicada de estudantes da Universidade Belas Artes, comprometidos em melhorar o fluxo de trânsito e a segurança nas cidades. 🚦  
 
-Nosso Propósito
----
-Nosso objetivo é proporcionar uma jornada de superação de maus hábitos e vícios por meio de uma abordagem inovadora e acessível. 🚀
+Nosso Propósito  
+---  
+Nosso objetivo é revolucionar a gestão de tráfego urbano com inteligência artificial, promovendo eficiência e segurança. 🚀  
 
-O Que Oferecemos
----
-Ferramentas Personalizadas: Desenvolvemos recursos adaptáveis às suas necessidades individuais. 🛠️
+O Que Oferecemos  
+---  
+- **Monitoramento Inteligente:** Detecção em tempo real de veículos, pedestres e bicicletas. 🚗🚶‍♂️🚲  
+- **Gestão de Tráfego Otimizada:** Redução de congestionamentos e melhoria do fluxo de trânsito. 🌟  
+- **Tecnologia de Ponta:** Solução baseada em YOLOv5 para máxima precisão e eficiência. 💻  
 
-Suporte Contínuo: Estamos aqui para ajudá-lo em cada etapa do processo. 🤝
+Junte-se a Nós!  
+---  
+Estamos entusiasmados em compartilhar essa ideia inovadora e construir cidades mais inteligentes e conectadas. Venha fazer parte do SmartFlow! 🌐  
 
-Tecnologia a Favor da Saúde: Utilizamos a tecnologia para promover uma vida mais saudável e equilibrada. 💻
+Para mais informações, entre em contato conosco em (smartflowproject@gmail.com). 📧  
 
-Junte-se a Nós!
----
-Estamos empolgados em ter você conosco nessa jornada rumo a uma vida mais saudável e feliz. Venha fazer parte do nosso projeto! 🌟
+Contribua para o SmartFlow  
+---  
+Se você é um desenvolvedor, pesquisador ou entusiasta de tecnologia, suas ideias são bem-vindas! Junte-se ao nosso repositório no GitHub e ajude-nos a aperfeiçoar nosso semáforo inteligente. 🛠️  
 
-Para mais informações, entre em contato conosco em (pimeaddition@gmail.com). 📧
+Como Contribuir  
+---  
+1. Faça um Fork do nosso repositório. 🔀  
+2. Clone o repositório forkado para o seu ambiente local. 🖥️  
+3. Proponha alterações e melhorias. ✅  
+4. Envie um Pull Request. 📥  
 
-Contribua para o Projeto AddiTIon Brasil
----
-Se você é um desenvolvedor interessado em ajudar a melhorar nosso projeto de largar maus hábitos e vícios, nós adoraríamos receber suas sugestões e atualizações em nosso repositório GitHub! 🛠️
+Sugestões de Contribuição  
+---  
+- Criação de novos módulos de detecção.  
+- Integrações com outros sistemas de transporte.  
+- Melhorias no desempenho e na interface.  
+- Novos casos de uso para a tecnologia. 🚀  
 
-Como Contribuir
----
-Faça um Fork do nosso repositório. 🔀
-
-Clone o repositório forkado para o seu ambiente local. 🖥️
-
-Faça suas alterações e testes. ✅
-
-Envie um Pull Request com suas alterações. 📥
-
-Sugestões de Contribuição
----
-- Desenvolvimento de novos recursos.
-- Correção de bugs.
-- Melhorias na usabilidade e interface do usuário.
-- Otimizações de desempenho. 🚀
+Estamos animados para construir o futuro do trânsito urbano juntos!
